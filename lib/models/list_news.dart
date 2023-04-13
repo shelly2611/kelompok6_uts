@@ -4,7 +4,7 @@ List<News> litslatesNews = [
   News(
     id: 'lates-001',
     imageUrl: 'https://i.postimg.cc/qvh2fhhv/088737400-1664962686-page.jpg',
-    title: 'Pemilik Syok, Ikan Koi Seharga Ratusan Juta Dimakan Berang-Berang',
+    title: 'Pemilik Syok, Ikan Koi Seharga Ratusan Juta Dimakan Biawak',
     content:
         'Salah satu hal yang paling menarik tentang ikan koi adalah keragaman jenis dan warna yang dapat ditemukan di antara mereka. Dari Kohaku putih-merah klasik hingga kemilau metalik Kin Gin Rin, ada banyak jenis ikan koi yang bisa dipilih. Setiap jenis ikan koi memiliki karakteristik uniknya sendiri, seperti warna, pola, dan jenis skala, yang membuatnya menonjol dan menarik bagi selera yang berbeda. Ikan koi adalah spesies ikan hias yang menarik dan dicintai yang telah memikat hati banyak pemilik hewan peliharaan di seluruh dunia. Dengan warna cerah, pola khas, dan umur panjang, koi telah menjadi simbol keberuntungan, kemakmuran, dan ketekunan di banyak budaya. Setiap jenis ikan koi memiliki keunikan, yang menjadikannya subjek yang menarik untuk dipelihara atau sekadar mengagumi kecantikan ikan ini.',
   ),

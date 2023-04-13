@@ -30,11 +30,10 @@ class User {
     return User(
       id: 001,
       name: "Kelompok 6",
-      username: "kelompok_6",
-      email: "kelompok6@email.com",
-      profilePhoto:
-          "https://cdn.idntimes.com/content-images/community/2020/09/104967619-2451390651819718-4934284928595035666-n-2fc82b7325949c7d003c1c58e17d48b7.jpg",
-      phoneNumber: "086666666666",
+      username: "rilvald__",
+      email: "kelompok6@gmail.com",
+      profilePhoto: "https://i.postimg.cc/7LZH4S3z/dp.jpg",
+      phoneNumber: "08728746384",
     );
   }
 }

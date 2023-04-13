@@ -2,7 +2,8 @@ import 'dart:developer';
 
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:pertemuan_v/models/user.dart';
+
+import '../../models/user.dart';
 
 class ProfileDetailScreen extends StatefulWidget {
   final User user;
